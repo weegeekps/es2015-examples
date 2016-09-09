@@ -1,0 +1,2 @@
+// Demonstrates Fat Arrow functions
+
