@@ -15,14 +15,14 @@ console.log('--- Old & Busted ---');
 oldAndBusted();
 
 function newHotness() {
-    let foo = 'foo';
+    let bar = 'foo';
 
     if (true) {
-        let foo = 'bar'
-        console.log(foo);
+        let bar = 'bar'
+        console.log(bar);
     }
 
-    console.log(foo);
+    console.log(bar);
 }
 
 console.log('--- New Hotness ---');
